@@ -1,7 +1,10 @@
 #Test comment
+#Author: Heather Marriott
 
 def main():
-    print("Hello, World!")
+
+    print("Hello CS118 Class and World!")
+
     print("Python rules!")
     print("another test!")
     value1 = 5
