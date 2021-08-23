@@ -1,9 +1,9 @@
 #Test comment
+#Author: Heather Marriott
 
 def main():
-    print("Hello, World!")
-    print("Python rules!")
-    print("another test")
+    print("Hello CS118 Class and World!")
+    
 
 if (__name__ == "__main__"):
     main()
