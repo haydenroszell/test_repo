@@ -7,7 +7,11 @@
 
 int main() {
 
+    int a = 1;
     printf("Hello, world :)");
   
+    if (a == 1)
+        printf("true\n");
+
     return 0;
 }
